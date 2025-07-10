@@ -1,6 +1,4 @@
----
-title: Buda-sys 
----
+
 
 # 🛡️ Buda-sys | Pentester Jr. & Dev de herramientas
 
