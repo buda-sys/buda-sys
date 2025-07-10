@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Buda-sys | Portafolio Pentester
 ---
 
