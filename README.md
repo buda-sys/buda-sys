@@ -1,16 +1,43 @@
-## Hi there 👋
+---
+layout: default
+title: Buda-sys | Portafolio Pentester
+---
 
-<!--
-**buda-sys/buda-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛡️ Buda-sys | Pentester Jr. & Dev de herramientas
 
-Here are some ideas to get you started:
+¡Hola! Soy Buda-sys, entusiasta de la ciberseguridad y creador de herramientas ofensivas personalizadas.  
+Llevo un año aprendiendo y aplicando técnicas reales de pentesting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Servicios
+
+- Desarrollo de scripts en Python/Bash
+- Automatización de pruebas de penetración
+- Herramientas para fuerza bruta, escaneo, exfiltración
+- Reportes de vulnerabilidades y análisis
+
+---
+
+## 🧪 Proyectos destacados
+
+- 🔗 [RAT en Python con C2 por Discord](https://github.com/tuusuario/proyecto1)
+- 🔗 [Script de fuerza bruta HTTP](https://github.com/tuusuario/proyecto2)
+- 🔗 [Análisis forense de metadatos](https://github.com/tuusuario/proyecto3)
+
+---
+
+## 🌐 Plataformas
+
+- [🔗 Hack The Box](https://app.hackthebox.com/users/Buda-sys)
+- [🔗 TryHackMe](https://tryhackme.com/p/Buda-sys)
+- [🔗 GitHub](https://github.com/tuusuario)
+
+---
+
+## 📫 Contacto
+
+- ✉️ buda.sys@protonmail.com
+- 💬 Discord: DarkBuda#xxxx
+
+> Trabajo ético y responsable. Cada proyecto es una oportunidad para aprender y proteger sistemas reales.
