@@ -36,7 +36,7 @@ Llevo un año aprendiendo y aplicando técnicas reales de pentesting.
 
 ## 📫 Contacto
 
-- ✉️ buda.sys@protonmail.com
-- 💬 Discord: DarkBuda#xxxx
+- ✉️ dark.exe1001@gmail.com
+
 
 > Trabajo ético y responsable. Cada proyecto es una oportunidad para aprender y proteger sistemas reales.
