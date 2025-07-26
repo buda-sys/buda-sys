@@ -97,29 +97,20 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
 </p>
 
-<pre style="color: lime; background-color: black; padding: 10px; font-family: monospace; animation: blink 1s steps(1) infinite;">
-$ whoami
-buda-sys
-$ hostname
-nodo-control-redteam.local
-$ ./reversing_toolkit.sh --status
-Módulo Metasploit: [✔️]
-Empire C2 conectado: [✔️]
-Payloads camuflados generados: 4
-Shell persistente activa en host objetivo...
-[ERROR] Stack overflow detected!
-[ERROR] Buffer overflow at 0x0042ff10
-[WARNING] Memory leak detected
-[DEBUG] Dumping registers...
-[DEBUG] eax=0xdeadbeef ebx=0xfeedface ecx=0x0badf00d
-[DEBUG] Stack trace:
-...
-...
-...
-</pre>
 
-<p align="center" style="font-style: italic; font-weight: bold; color:#bb33ff;"> “El conocimiento es mi payload. La ética, mi rootkit.” — Buda-sys </p>
-<p align="center" style="font-size: 0.85rem; color: #555;"> Última edición: 26/07/2025<br /> <strong>Creador:</strong> <a href="https://github.com/buda-sys" style="color:#33FF33;">Buda-sys</a><br /> Si estás leyendo esto, ya estás dentro del sistema... </p>
+<p align="center" style="font-style: italic; font-weight: bold; color:#bb33ff; font-size:1.1rem; text-shadow: 0 0 4px #bb33ff;">
+  “El conocimiento es mi payload. La ética, mi rootkit.”
+</p>
+
+<p align="center" style="font-size: 0.9rem; color: #888; font-family: monospace;">
+  Última edición: <strong style="color:#ffffff;">26/07/2025</strong><br />
+  <strong style="color:#33FF33;">Creador:</strong> <a href="https://github.com/buda-sys" style="color:#33FF33; text-decoration: none;">Buda-sys</a><br />
+  <span style="color:#ff66cc; text-shadow: 0 0 6px #ff66cc;">Si estás leyendo esto, ya estás dentro del sistema...</span>
+</p>
+
+<p align="center" style="font-size: 0.95rem; font-weight: bold; color: #ffaa00; text-shadow: 0 0 5px #ffaa00; font-family: monospace;">
+  🚧 En construcción...
+</p>
 
 
 
