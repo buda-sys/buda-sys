@@ -27,15 +27,12 @@
   <!-- Lenguajes -->
   <img src="https://img.shields.io/badge/Python-33FF33?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-33FF33?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-33FF33?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-33FF33?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-x86-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerShell-33FF33?style=for-the-badge&logo=powershell&logoColor=white" />
 
   <!-- Frameworks ofensivos -->
   <img src="https://img.shields.io/badge/Metasploit-800080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PowerShell%20Empire-660066?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerShell%20Empire-Starkiller-660066?style=for-the-badge" />
 </p>
+
 
 ---
 
