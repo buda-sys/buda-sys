@@ -8,27 +8,16 @@
 
 
 ---
+<pre>
+ 👾 ¿Quién soy?
 
-## 👾 ¿Quién soy?
+🧠 Explorador ético del lado oscuro del hacking, aprendiz constante en explotación, evasión y sigilo digital.  
+🛠️ Desarrollador de herramientas ofensivas en Bash, Python y PowerShell.  
+🦠 Apasionado por malware personalizado, evasión de antivirus y persistencia avanzada.  
+💻 Experiencia en Linux, Windows, pivoting y exfiltración de datos.  
+🚩 Entusiasta de CTFs, retos técnicos y laboratorios de ataque y defensa.
 
-- 🧠 Explorador del lado oscuro **ético** del hacking  
-- 🎯 Aprendiz eterno del arte de la **explotación, evasión y sigilo digital**  
-- 🛠️ Creador de herramientas ofensivas en **Bash, Python y PowerShell**  
-- 🦠 Apasionado por el **desarrollo de malware personalizado**, técnicas de evasión de antivirus, persistencia y post-explotación  
-- 💻 Familiarizado con sistemas **Linux, Windows** y técnicas de **pivoting, recolección de credenciales y exfiltración de datos**  
-- 🚩 Entusiasta de los **CTFs, retos técnicos, laboratorios y ambientes controlados** de ataque y defensa  
-- 📚 Estudiante autodidacta en plataformas como:  
-  - 🔐 TryHackMe  
-  - 🧬 Hack The Box  
-  - 🧠 INE Cybersecurity  
-  - 🧪 Laboratorios privados en **Kali Linux** y máquinas virtuales personalizadas  
-- ⚔️ En constante evolución, integrando conocimientos de:  
-  - 📡 OSINT  
-  - 🎭 Ingeniería social  
-  - 💻 Scripting ofensivo  
-  - 🕳️ Técnicas de infiltración y persistencia avanzada  
-  - 🧩 Análisis de malware e ingeniería inversa  
-
+</pre>
 
 ---
 
