@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Bienvenido al Dominio de <span style="color:#bb33ff;">Buda-sys</span> ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1100&color=00FF99&center=true&vCenter=true&width=800&lines=┌──(buda-sys㉿dark-net)-[~/C2];└─$+./start_listener.sh;[*]+Escuchando+conexiones...;[+]+Cliente+infiltrado+detectado.;[*]+Túnel+reverso+establecido." />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&pause=1100&color=00FF99&center=true&vCenter=true&width=800&lines=┌──(buda-sys㉿dark-net)-[~/C2];└─$+./start_listener.sh;[*]+Escuchando+conexiones...;[+]+Cliente+infiltrado+detectado.;[*]+Túnel+reverso+establecido." />
 </p>
 
 ---
