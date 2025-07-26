@@ -1,4 +1,4 @@
-<h1 align="center">🧬 Accediendo al <span style="color:#bb33ff;">Ciberespacio</span> de <span style="color:#33FF33;">Buda-sys</span> 🧠</h1>
+<h1 align="center">👾 Accediendo al <span style="color:#bb33ff;">Ciberespacio</span> de <span style="color:#33FF33;">Buda-sys</span> 👾</h1>
 
 
 
