@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Bienvenido al Dominio de <span style="color:#bb33ff;">Buda-sys</span> ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=bb33ff&center=true&vCenter=true&width=850&lines=↳+Modo+Red+Team+Activado.;↳+Framework:+Metasploit+%7C+Empire+%7C+PayloadFactory.;↳+Monitor+C2:+Online+%7C+Logs+Obfuscados.;↳+Agente+Buda-sys+Conectado..." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=33FF33&center=true&vCenter=true&width=750&lines=>+Remote+Access+Established...;>+Loading+Red+Team+Toolkit...;>+Launching+Malware+Ops+Module...;>+Agent+Buda-sys+Online." />
 </p>
 
 
