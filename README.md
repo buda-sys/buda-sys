@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Bienvenido al Dominio de <span style="color:#bb33ff;">Buda-sys</span> ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FF00FF&center=true&vCenter=true&width=850&lines=➤+Conexión+remota+establecida.;➤+Herramientas+Red+Team+cargadas.;➤+Modo+sigiloso+activo.;➤+Operador:+Buda-sys+online..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1400&color=33FF33&center=true&vCenter=true&width=850&lines=$+python3+payload.py;[*]+Payload+generado+y+ejecutado.;[*]+Acceso+remoto+concedido.;[*]+Buda-sys+está+al+control." />
 </p>
 
 
