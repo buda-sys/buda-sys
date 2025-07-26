@@ -1,8 +1,9 @@
 <h1 align="center">⚡ Bienvenido al Dominio de <span style="color:#bb33ff;">Buda-sys</span> ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=33FF33&center=true&vCenter=true&multiline=true&fontSize=22&lines=%3E+Conexi%C3%B3n+remota+iniciada...;%3E+Cargando+perfil+Red+Team...;%3E+Modo+%5BMalware+%2F+Reversing%5D+activo;%3E+Bienvenido%2C+agente+oscuro." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=20&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&lines=▌+Conexi%C3%B3n+remota+iniciada...;▌+Cargando+perfil+Red+Team...;▌+Modo+[Malware+/+Reversing]+activo.;▌+Bienvenido,+agente+oscuro." alt="Typing SVG" />
 </p>
+
 
 ---
 
