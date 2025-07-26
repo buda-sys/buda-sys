@@ -24,11 +24,11 @@
 ### 🧰 Lenguajes & Frameworks ofensivos
 
 <p align="center">
-  <strong style="color:#33FF33; font-size: 16px; margin-right: 12px;">📝 Lenguajes:</strong>
+  <strong style="color:#33FF33; font-size: 16px; margin-right: 12px;"></strong>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=33FF33" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=33FF33" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <strong style="color:#bb33ff; font-size: 16px; margin-right: 12px;">🛠️ Frameworks ofensivos:</strong>
+  <strong style="color:#bb33ff; font-size: 16px; margin-right: 12px;"></strong>
   <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=bb33ff" alt="Metasploit" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-PowerShell_Empire_Starkiller-000000?style=flat&logo=powershell&logoColor=660066" alt="PowerShell Empire Starkiller" />
 </p>
