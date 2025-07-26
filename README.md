@@ -22,15 +22,15 @@
 ---
 
 ### 🧰 Lenguajes
-<p align="center">
-  <strong style="color:#33FF33; font-size: 16px;">📝 Lenguajes:</strong><br><br>
+#<p align="center">
+  <strong style="color:#33FF33; font-size: 16px;">:</strong><br><br>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=33FF33" alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=33FF33" alt="Bash" />
 </p>
 
 ### 🛠️ Frameworks
-<p align="center" style="margin-top: 25px;">
-  <strong style="color:#bb33ff; font-size: 16px;">🛠️ Frameworks ofensivos:</strong><br><br>
+#<p align="center" style="margin-top: 25px;">
+  <strong style="color:#bb33ff; font-size: 16px;"></strong><br><br>
   <img src="https://img.shields.io/badge/-Metasploit-000000?style=flat&logo=metasploit&logoColor=bb33ff" alt="Metasploit" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-PowerShell_Empire_Starkiller-000000?style=flat&logo=powershell&logoColor=660066" alt="PowerShell Empire Starkiller" />
 </p>
