@@ -1,152 +1,89 @@
+<h1 align="center">💀 Hola, soy <span style="color:#bb33ff">Buda-sys</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/buda-sys">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&pause=1000&color=33FFDD&center=true&vCenter=true&multiline=true&lines=🔓+Ethical+Hacker;💣+Red+Team+Operator;🧠+Malware+Analyst+and+Reverser;🔮+Siempre+aprendiendo..." alt="Typing SVG" />
+  </a>
+</p>
 
+---
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Buda-sys | Ethical Hacking</title>
-  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet"/>
-  <style>
-    body {
-      background-color: #0d0d0d;
-      color: #33ff33;
-      font-family: 'Share Tech Mono', monospace;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #111;
-      padding: 2rem;
-      text-align: center;
-      border-bottom: 2px solid #33ff33;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    nav {
-      text-align: center;
-      padding: 1rem;
-    }
-    nav a {
-      margin: 0 1rem;
-      text-decoration: none;
-      color: #33ff33;
-      border-bottom: 1px dashed transparent;
-    }
-    nav a:hover {
-      border-color: #33ff33;
-    }
-    section {
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h2 {
-      border-bottom: 1px dashed #33ff33;
-      padding-bottom: 0.5rem;
-    }
-    ul {
-      list-style: square;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      border-top: 1px dashed #33ff33;
-      color: #888;
-      font-size: 0.9rem;
-    }
-    .highlight {
-      color: #00ffcc;
-    }
-    #terminal {
-      background-color: #000;
-      color: #33ff33;
-      font-size: 1.2rem;
-      padding: 1rem;
-      margin: 2rem auto;
-      max-width: 800px;
-      border: 1px solid #33ff33;
-      white-space: pre-wrap;
-      min-height: 100px;
-    }
-    .cursor {
-      display: inline-block;
-      width: 10px;
-      background-color: #33ff33;
-      animation: blink 0.8s infinite;
-    }
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>🧠 Buda-sys</h1>
-    <p>Ethical Hacking | Red Team | Malware | Ingeniería Inversa</p>
-  </header>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buda-sys&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="trophies" />
+</p>
 
-  <div id="terminal"><span id="typed-text"></span><span class="cursor"></span></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buda-sys&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buda-sys&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+</p>
 
-  <nav>
-    <a href="#about">Sobre mí</a>
-    <a href="#projects">Proyectos</a>
-    <a href="#contact">Contacto</a>
-  </nav>
+---
 
-  <section id="about">
-    <h2>💀 Sobre mí</h2>
-    <p>Soy <span class="highlight">Buda-sys</span>, un apasionado del mundo oscuro (y ético) de la ciberseguridad.</p>
-    <ul>
-      <li>Estudiante de Licenciatura en Ciberseguridad</li>
-      <li>Me encanta el Red Team, análisis de malware, ingeniería inversa y hardening</li>
-      <li>Aprendiendo todos los días de forma autodidacta</li>
-    </ul>
-  </section>
+<h2 align="center">👽 Sobre mí</h2>
 
-  <section id="projects">
-    <h2>📁 Proyectos y CTFs</h2>
-    <ul>
-      <li><strong>CTF:</strong> Write-ups de retos resueltos (en progreso)</li>
-      <li><strong>Herramientas:</strong> Scripts personalizados para pentesting</li>
-      <li><strong>Documentación:</strong> Notas y técnicas sobre malware y reversing</li>
-    </ul>
-  </section>
+- 🎓 Estudiante de **Licenciatura en Ciberseguridad**
+- ⚔️ Apasionado del **Red Teaming**, análisis de malware y reversing
+- 🧠 Aprendiz autodidacta, siempre buscando explotar conocimiento
+- 🛠️ Creador de herramientas ofensivas personalizadas
+- 👾 Me interesa: ingeniería inversa, evasión AV, persistence, C2s
 
-  <section id="contact">
-    <h2>📡 Contacto</h2>
-    <ul>
-      <li>📱 Telegram: <a href="https://t.me/buda_sys" target="_blank">@buda_sys</a></li>
-      <li>🎥 TikTok: <a href="https://www.tiktok.com/@buda_sys" target="_blank">@buda_sys</a></li>
-      <li>📧 Email: buda.sys@protonmail.com</li>
-    </ul>
-  </section>
+---
 
-  <footer>
-    Hecho con 💻 por Buda-sys — <em>“Hack the planet... ethically”</em>
-  </footer>
+<h2 align="center">📡 Contacto</h2>
 
-  <script>
-    const text = `> Iniciando conexión con Buda-sys...\n> Cargando perfil cibernético...\n> Red Team | Malware | Ingeniería Inversa\n> Bienvenido al mundo del hacking ético.\n`;
-    const typedText = document.getElementById('typed-text');
-    let i = 0;
+<div align="center">
+  <a href="https://t.me/buda_sys" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/telegram-app.png" />
+  </a>
+  <a href="https://www.tiktok.com/@buda_sys" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/tiktok--v1.png" />
+  </a>
+  <a href="mailto:buda.sys@protonmail.com" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/email.png" />
+  </a>
+</div>
 
-    function type() {
-      if (i < text.length) {
-        typedText.textContent += text.charAt(i);
-        i++;
-        setTimeout(type, 40);
-      }
-    }
+---
 
-    window.onload = type;
-  </script>
-</body>
-</html>
+<h2 align="center">⚒️ Herramientas favoritas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/-Metasploit-333?style=flat&logo=metasploit&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-333?style=flat&logo=wireshark&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/-IDA%20Pro-333?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-x64dbg-333?style=flat" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-333?style=flat&logo=kalilinux&logoColor=purple" />
+</p>
+
+---
+
+<h2 align="center">📁 Proyectos</h2>
+
+- 🔓 **CTF Writeups** en progreso
+- 🧪 **Reverse Shell Factory** (automatizador de payloads)
+- 💻 **RAT + C2 personalizado** por Discord
+- 📖 Documentación y notas de malware & reversing en Obsidian
+
+---
+
+<h2 align="center">🧬 Snake 🐍</h2>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px"></p>
+
+<p align="center"><strong><i>“Hackea el planeta... éticamente.”</i></strong></p>
+
+<p align="center">
+  Hecho con 💻 por <span style="color:#bb33ff">Buda-sys</span>
+</p>
 
 
 
