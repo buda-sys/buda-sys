@@ -9,7 +9,6 @@
 
 ---
 
-<pre>
 ## 👾 ¿Quién soy?
 
 - 🧠 Explorador del lado oscuro **ético** del hacking  
@@ -30,7 +29,6 @@
   - 🕳️ Técnicas de infiltración y persistencia avanzada  
   - 🧩 Análisis de malware e ingeniería inversa  
 
-</pre>
 
 ---
 
