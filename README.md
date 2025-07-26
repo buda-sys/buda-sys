@@ -98,13 +98,7 @@ $ ./reversing_toolkit.sh --status
 ```
 
 <p align="center" style="font-style: italic; font-weight: bold; color:#bb33ff;"> “El conocimiento es mi payload. La ética, mi rootkit.” — Buda-sys </p>
-<p align="center" style="font-size: 0.85rem; color: #555;"> Última edición: 26/07/2025<br /> <strong>Creador:</strong> <a href="https://github.com/buda-sys" style="color:#33FF33;">Buda-sys</a><br /> Si estás leyendo esto, ya estás dentro del sistema... </p> ``
-
-$ tail -f /var/log/hacklog.log
-[INFO] 26-07-25 | Nuevo objetivo agregado: 192.168.10.23
-[INFO] 26-07-25 | Payload en ejecución con éxito
-[WARN] 26-07-25 | Firma detectada por AV, cambiando hash...
-[OK]   26-07-25 | Persistencia asegurada
+<p align="center" style="font-size: 0.85rem; color: #555;"> Última edición: 26/07/2025<br /> <strong>Creador:</strong> <a href="https://github.com/buda-sys" style="color:#33FF33;">Buda-sys</a><br /> Si estás leyendo esto, ya estás dentro del sistema... </p>
 
 
 
