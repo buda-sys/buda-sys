@@ -25,11 +25,15 @@
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Python-33FF33?style=for-the-badge&logo=python&logoColor=white" />
+  <strong style="color:#33FF33; font-size: 18px;">📝 Lenguajes</strong><br /><br />
+  <img src="https://img.shields.io/badge/Python-33FF33?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bash-33FF33?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
+<p align="center" style="margin-top: 15px;">
   <!-- Frameworks ofensivos -->
-  <img src="https://img.shields.io/badge/Metasploit-800080?style=for-the-badge" />
+  <strong style="color:#800080; font-size: 18px;">🛠️ Frameworks ofensivos</strong><br /><br />
+  <img src="https://img.shields.io/badge/Metasploit-800080?style=for-the-badge&logo=metasploit&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PowerShell%20Empire-Starkiller-660066?style=for-the-badge" />
 </p>
 
