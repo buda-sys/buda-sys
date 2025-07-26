@@ -55,9 +55,7 @@
 - 🛡️ **Evasión AV avanzada** – Técnicas de ofuscación y anti-detección.  
 - ⚡ **Exploit Framework modular** – Creación rápida de exploits personalizados.  
 - 🔄 **Automatización de pivoting** – Movimiento lateral simplificado en redes.  
-- 📡 **Sniffer y Keylogger camuflados** – Recolección sigilosa de datos sensibles.  
-- 🕸️ **Crawler para vulnerabilidades web** – Identificación automática de fallos en apps.  
-- 🧩 **Simulador de ataques Red Team** – Toolkit para entrenamiento y pruebas internas.  
+- 📡 **Sniffer y Keylogger camuflados** – Recolección sigilosa de datos sensibles.     
 
 ---
 
@@ -93,7 +91,7 @@
 
 ---
 
-### 🐍 Serpiente de contribuciones (fondo oscuro)
+### 🐍 Serpiente de contribuciones 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
@@ -101,9 +99,33 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Terminal flood animation" width="600" />
-</p>
+$ whoami
+buda-sys
+$ hostname
+nodo-control-redteam.local
+$ ./reversing_toolkit.sh --status
+Módulo Metasploit: [✔️]
+Empire C2 conectado: [✔️]
+Payloads camuflados generados: 4
+Shell persistente activa en host objetivo...
+[ERROR] Stack overflow detected!
+[ERROR] Buffer overflow at 0x0042ff10
+[WARNING] Memory leak detected
+[DEBUG] Dumping registers...
+[DEBUG] eax=0xdeadbeef ebx=0xfeedface ecx=0x0badf00d
+[DEBUG] Stack trace:
+...
+...
+...
+[DEBUG] Stack trace:
+...
+...
+...
+[DEBUG] Stack trace:
+...
+...
+...
+
 
 <p align="center" style="font-style: italic; font-weight: bold; color:#bb33ff;"> “El conocimiento es mi payload. La ética, mi rootkit.” — Buda-sys </p>
 <p align="center" style="font-size: 0.85rem; color: #555;"> Última edición: 26/07/2025<br /> <strong>Creador:</strong> <a href="https://github.com/buda-sys" style="color:#33FF33;">Buda-sys</a><br /> Si estás leyendo esto, ya estás dentro del sistema... </p>
