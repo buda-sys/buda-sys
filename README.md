@@ -1,89 +1,86 @@
-<h1 align="center">💀 Hola, soy <span style="color:#bb33ff">Buda-sys</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">⚡ Bienvenido al Dominio de <span style="color:#bb33ff;">Buda-sys</span> ⚡</h1>
 
 <p align="center">
-  <a href="https://github.com/buda-sys">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&pause=1000&color=33FFDD&center=true&vCenter=true&multiline=true&lines=🔓+Ethical+Hacker;💣+Red+Team+Operator;🧠+Malware+Analyst+and+Reverser;🔮+Siempre+aprendiendo..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=33FF33&center=true&vCenter=true&multiline=true&lines=%3E+Conexi%C3%B3n+remota+iniciada...;%3E+Cargando+perfil+de+operador+Red+Team...;%3E+Modo+%5BMalware+%2F+Reversing%5D+activo;%3E+Bienvenido%2C+agente+de+la+oscuridad." alt="Typing SVG" />
+</p>
+
+---
+
+
+
+
+---
+
+### 👁️‍🗨️ Acerca de mí
+
+🧠 Autodidacta y eterno aprendiz del lado oscuro de la ciberseguridad.  
+⚔️ Me especializo en tácticas ofensivas, reversing, malware, RATs y evasión.  
+🧪 Me gusta crear herramientas que fusionan ingeniería + sigilo + automatización.  
+🎓 Estudiante de Ciberseguridad | Guerrillero digital en constante formación.
+
+---
+
+### 🛠️ Mis proyectos favoritos
+
+- 🧠 **RAT + C2 en Discord** – control total desde canales secretos.
+- 🔐 **Reverse Shell Factory** – genera payloads al instante (camuflados).
+- 🎯 **Bypass & Persistencia** – scripts para Windows con UAC bypass y logs cleaner.
+- 📜 **Documentación propia** – todas mis técnicas y conocimientos en Obsidian.
+
+---
+
+### 📡 Contacto directo
+
+| Plataforma | Usuario |
+|-----------|---------|
+| 🐱 GitHub | [@buda-sys](https://github.com/buda-sys)  
+| 📱 Telegram | [@buda_sys](https://t.me/buda_sys)  
+| 🎥 TikTok | `@buda_sys`  
+| 📧 Email | [buda.sys@protonmail.com](mailto:buda.sys@protonmail.com)  
+
+---
+
+### 🧰 Herramientas favoritas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-33FF33?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-33FF33?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-33FF33?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-33FF33?style=flat&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-purple?style=flat" />
+  <img src="https://img.shields.io/badge/Scapy-purple?style=flat" />
+  <img src="https://img.shields.io/badge/Assembly-x86-purple?style=flat" />
+</p>
+
+---
+
+### 🧬 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buda-sys&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buda-sys&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="49%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buda-sys&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buda-sys&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buda-sys&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+  <img src="https://media.tenor.com/0AV2D2LyGXYAAAAd/hacker-hack.gif" width="400px">
 </p>
 
----
-
-<h2 align="center">👽 Sobre mí</h2>
-
-- 🎓 Estudiante de **Licenciatura en Ciberseguridad**
-- ⚔️ Apasionado del **Red Teaming**, análisis de malware y reversing
-- 🧠 Aprendiz autodidacta, siempre buscando explotar conocimiento
-- 🛠️ Creador de herramientas ofensivas personalizadas
-- 👾 Me interesa: ingeniería inversa, evasión AV, persistence, C2s
+<p align="center"><strong><i>“El conocimiento es mi payload. La ética, mi rootkit.” — Buda-sys</i></strong></p>
 
 ---
 
-<h2 align="center">📡 Contacto</h2>
+### 🧩 Última edición: 26/07/2025
 
-<div align="center">
-  <a href="https://t.me/buda_sys" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/telegram-app.png" />
-  </a>
-  <a href="https://www.tiktok.com/@buda_sys" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/tiktok--v1.png" />
-  </a>
-  <a href="mailto:buda.sys@protonmail.com" target="_blank">
-    <img src="https://img.icons8.com/doodle/40/email.png" />
-  </a>
-</div>
-
----
-
-<h2 align="center">⚒️ Herramientas favoritas</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-Metasploit-333?style=flat&logo=metasploit&logoColor=blue" />
-  <img src="https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-333?style=flat&logo=wireshark&logoColor=lightblue" />
-  <img src="https://img.shields.io/badge/-IDA%20Pro-333?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-x64dbg-333?style=flat" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-333?style=flat&logo=kalilinux&logoColor=purple" />
-</p>
-
----
-
-<h2 align="center">📁 Proyectos</h2>
-
-- 🔓 **CTF Writeups** en progreso
-- 🧪 **Reverse Shell Factory** (automatizador de payloads)
-- 💻 **RAT + C2 personalizado** por Discord
-- 📖 Documentación y notas de malware & reversing en Obsidian
-
----
-
-<h2 align="center">🧬 Snake 🐍</h2>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px"></p>
-
-<p align="center"><strong><i>“Hackea el planeta... éticamente.”</i></strong></p>
-
-<p align="center">
-  Hecho con 💻 por <span style="color:#bb33ff">Buda-sys</span>
-</p>
+> **Creador: [Buda-sys](https://github.com/buda-sys)**  
+> Si estás leyendo esto, ya estás dentro del sistema...
 
 
 
