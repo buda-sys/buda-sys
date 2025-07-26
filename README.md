@@ -40,12 +40,27 @@
 
 ---
 
-### 🧪 Proyectos favoritos
+### 🧪 Proyectos creados
 
 - 🧠 **RAT + C2 en Discord** – Control total desde canales secretos.  
-- 🔐 **Reverse Shell Factory** – Payloads camuflados al instante.  
-- 🎯 **Bypass & Persistencia** – Scripts con UAC bypass y limpieza de logs.  
-- 📜 **Obsidian Docs** – Documentación personal estilo manual del operador.
+- 🎯 **MITM a Active Directory** – Interceptación y manipulación en entornos Windows.
+
+---
+
+### 🧪 Próximos proyectos
+
+- 🦠 **DDoS** – Centro telefónico.  
+- 🔐 **Ransomware-Bypass** – Hardening en Active Directory.  
+- 🕵️‍♂️ **Tool de OSINT automatizado** – Recolección y análisis de información pública.  
+- 🛡️ **Evasión AV avanzada** – Técnicas de ofuscación y anti-detección.  
+- ⚡ **Exploit Framework modular** – Creación rápida de exploits personalizados.  
+- 🔄 **Automatización de pivoting** – Movimiento lateral simplificado en redes.  
+- 📡 **Sniffer y Keylogger camuflados** – Recolección sigilosa de datos sensibles.  
+- 🕸️ **Crawler para vulnerabilidades web** – Identificación automática de fallos en apps.  
+- 🧩 **Simulador de ataques Red Team** – Toolkit para entrenamiento y pruebas internas.  
+
+---
+
 
 ---
 
@@ -55,16 +70,14 @@
   <a href="https://github.com/buda-sys" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" title="GitHub" />
   </a> &nbsp;&nbsp;
-  <a href="https://t.me/buda_sys" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="30" title="Telegram" />
-  </a> &nbsp;&nbsp;
+ 
   <a href="https://www.tiktok.com/@buda_sys" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" width="30" title="TikTok" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:buda.sys@protonmail.com">
+  <a href="Mail --> dark.exe1001@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/protonmail.svg" width="30" title="Email" />
   </a> &nbsp;&nbsp;
-  <a href="https://discord.gg/tu-codigo-aqui" target="_blank">
+  <a href="https://discord.gg/demondark00" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" title="Discord" />
   </a>
 </p>
@@ -88,21 +101,9 @@
 
 ---
 
-### 🧾 Logs de sistema 
-
-```bash
-$ whoami
->> buda-sys
-
-$ hostname
->> nodo-control-redteam.local
-
-$ ./reversing_toolkit.sh --status
->> Módulo Metasploit: [✔️]
->> Empire C2 conectado: [✔️]
->> Payloads camuflados generados: 4
->> Shell persistente activa en host objetivo...
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Terminal flood animation" width="600" />
+</p>
 
 <p align="center" style="font-style: italic; font-weight: bold; color:#bb33ff;"> “El conocimiento es mi payload. La ética, mi rootkit.” — Buda-sys </p>
 <p align="center" style="font-size: 0.85rem; color: #555;"> Última edición: 26/07/2025<br /> <strong>Creador:</strong> <a href="https://github.com/buda-sys" style="color:#33FF33;">Buda-sys</a><br /> Si estás leyendo esto, ya estás dentro del sistema... </p>
