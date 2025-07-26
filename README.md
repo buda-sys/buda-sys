@@ -22,11 +22,10 @@
 ---
 
 ### 🧰 Lenguajes
-
 <p align="center">
-  <strong style="color:#33FF33; font-size: 16px; margin-right: 12px;"></strong>
+  <strong style="color:#33FF33; font-size: 16px;"></strong><br><br>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=33FF33" alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=33FF33" alt="Bash" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnu-bash&logoColor=33FF33" alt="Bash" />
 </p>
 
 #### 🛠️ Frameworks ofensivos
