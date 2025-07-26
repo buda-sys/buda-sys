@@ -81,7 +81,7 @@
 
 ---
 
-### 🧾 Logs de sistema (estilo terminal)
+### 🧾 Logs de sistema 
 
 ```bash
 $ whoami
@@ -101,7 +101,7 @@ $ tail -f /var/log/hacklog.log
 [INFO] 26-07-25 | Payload en ejecución con éxito
 [WARN] 26-07-25 | Firma detectada por AV, cambiando hash...
 [OK]   26-07-25 | Persistencia asegurada
-
+```
 
 
 
