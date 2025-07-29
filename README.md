@@ -43,7 +43,6 @@
 ### 🧪 Proyectos creados
 
 - 🧠 **RAT + C2 en Discord** – Control total desde canales secretos.  
-- 🎯 **MITM a Active Directory** – Interceptación y manipulación en entornos Windows.
 - 🛡️ **Obfuscador BudaCrypt** -ofusca tu codigo python para evadir antivirus poco sofisticados
 
 ---
