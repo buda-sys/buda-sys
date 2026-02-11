@@ -34,7 +34,6 @@
 ## 🛠️ Frameworks & Herramientas
 <p align="left">
   <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=bb33ff"/>
-  <img src="https://img.shields.io/badge/Empire%20(Starkiller)-000000?style=flat&logo=powershell&logoColor=660066"/>
   <img src="https://img.shields.io/badge/BloodHound-000000?style=flat&logo=bloodhound&logoColor=white"/>
   <img src="https://img.shields.io/badge/Impacket-000000?style=flat&logo=python&logoColor=white"/>
 </p>
@@ -79,8 +78,10 @@ Escaneo de puertos en rust
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buda-sys&theme=tokyonight&show_icons=true&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buda-sys&theme=tokyonight&layout=compact&hide_border=true" width="48%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=buda-sys&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buda-sys&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
 </p>
 
 ---
