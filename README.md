@@ -1,33 +1,11 @@
-# Hey, I'm Buda-sys 👾
+### Hey, soy Buda-sys 👾
 
-> Pentester | Cybersecurity Student | Red Team Enthusiast
+Entusiasta de la ciberseguridad y estudiante de pentesting. Para más información sobre mí, mis proyectos y documentación visita mi página web:
 
-I'm passionate about offensive security, vulnerability research, and building tools for controlled lab environments.
-
----
-
-### 🛠️ What I work with
-
-- **Recon:** Nmap · FFUF · Burp Suite
-- **Exploitation:** Metasploit · SQLMap · Hydra · Kerbrute · Rubeus
-- **Post-Exploitation:** BloodHound · Mimikatz · LinPEAS / WinPEAS
+🌐 **[budahacksecurity.vercel.app](https://budahacksecurity.fun)**
 
 ---
 
-### 🔬 Current Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buda-sys&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=ffffff)
 
-- **Kayrat** — Educational RAT for Windows lab environments
-- **BudaCrypt** — CLI tool for encryption, hashing & encoding
-- **Buda Hack Security Blog** — Write-ups, exploits & security research
-
----
-
-### 📡 For more information, visit my website
-
-🌐 **[budahacksecurity.vercel.app](https://budahacksecurity.vercel.app)**
-
----
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Kravn0.png" alt="TryHackMe Badge"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=buda-sys&theme=dark&hide_border=true&background=0d0d0d&ring=cc0000&fire=cc0000&currStreakLabel=cc0000)
