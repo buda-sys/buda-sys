@@ -2,7 +2,7 @@
 
 Entusiasta de la ciberseguridad y estudiante de pentesting. Para más información sobre mí, mis proyectos y documentación visita mi página web:
 
-🌐 **[budahacksecurity.vercel.app](https://budahacksecurity.fun)**
+🌐 **[budahacksecurity.fun](https://budahacksecurity.fun)**
 
 ---
 
