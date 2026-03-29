@@ -1,6 +1,5 @@
-### Hey, soy Buda-sys 👾
-
-Entusiasta de la ciberseguridad y estudiante de pentesting. Para más información sobre mí, mis proyectos y documentación visita mi página web:
+### Hey, I'm Buda-sys 👾
+Cybersecurity enthusiast and pentesting student. For more information about me, my projects and documentation visit my website: 
 
 🌐 **[budahacksecurity.fun](https://budahacksecurity.fun)**
 
